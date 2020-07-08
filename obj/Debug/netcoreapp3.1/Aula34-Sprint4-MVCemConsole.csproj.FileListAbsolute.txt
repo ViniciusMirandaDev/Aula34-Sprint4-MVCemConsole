@@ -1,0 +1,13 @@
+C:\Users\amand\Desktop\Projeto senai\Aula34-Sprint4-MVCemConsole\bin\Debug\netcoreapp3.1\Aula34-Sprint4-MVCemConsole.exe
+C:\Users\amand\Desktop\Projeto senai\Aula34-Sprint4-MVCemConsole\bin\Debug\netcoreapp3.1\Aula34-Sprint4-MVCemConsole.deps.json
+C:\Users\amand\Desktop\Projeto senai\Aula34-Sprint4-MVCemConsole\bin\Debug\netcoreapp3.1\Aula34-Sprint4-MVCemConsole.runtimeconfig.json
+C:\Users\amand\Desktop\Projeto senai\Aula34-Sprint4-MVCemConsole\bin\Debug\netcoreapp3.1\Aula34-Sprint4-MVCemConsole.runtimeconfig.dev.json
+C:\Users\amand\Desktop\Projeto senai\Aula34-Sprint4-MVCemConsole\bin\Debug\netcoreapp3.1\Aula34-Sprint4-MVCemConsole.dll
+C:\Users\amand\Desktop\Projeto senai\Aula34-Sprint4-MVCemConsole\bin\Debug\netcoreapp3.1\Aula34-Sprint4-MVCemConsole.pdb
+C:\Users\amand\Desktop\Projeto senai\Aula34-Sprint4-MVCemConsole\obj\Debug\netcoreapp3.1\Aula34-Sprint4-MVCemConsole.csprojAssemblyReference.cache
+C:\Users\amand\Desktop\Projeto senai\Aula34-Sprint4-MVCemConsole\obj\Debug\netcoreapp3.1\Aula34-Sprint4-MVCemConsole.csproj.CoreCompileInputs.cache
+C:\Users\amand\Desktop\Projeto senai\Aula34-Sprint4-MVCemConsole\obj\Debug\netcoreapp3.1\Aula34-Sprint4-MVCemConsole.AssemblyInfoInputs.cache
+C:\Users\amand\Desktop\Projeto senai\Aula34-Sprint4-MVCemConsole\obj\Debug\netcoreapp3.1\Aula34-Sprint4-MVCemConsole.AssemblyInfo.cs
+C:\Users\amand\Desktop\Projeto senai\Aula34-Sprint4-MVCemConsole\obj\Debug\netcoreapp3.1\Aula34-Sprint4-MVCemConsole.dll
+C:\Users\amand\Desktop\Projeto senai\Aula34-Sprint4-MVCemConsole\obj\Debug\netcoreapp3.1\Aula34-Sprint4-MVCemConsole.pdb
+C:\Users\amand\Desktop\Projeto senai\Aula34-Sprint4-MVCemConsole\obj\Debug\netcoreapp3.1\Aula34-Sprint4-MVCemConsole.genruntimeconfig.cache
